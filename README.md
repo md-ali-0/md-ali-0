@@ -10,6 +10,7 @@
 ## 💾 Learning
 
 [<img src="https://expressjs.com/images/favicon.png" alt="NextJS" width="20" /> ExpressJS](https://expressjs.com/)
+<br>
 [<img src="https://www.mongodb.com/assets/images/global/favicon.ico" alt="NextJS" width="20" /> MongoDB](https://mongodb.com/)
 <br>
 [<img src="https://fr.reactjs.org/favicon.ico" alt="ReactJS" width="20" /> ReactJS](https://reactjs.org/)
@@ -22,8 +23,8 @@
 
 ## 🛠 Skills
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png" alt="C++" width="20" /> HTML (https://en.wikipedia.org/wiki/HTML)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png" alt="C++" width="20" /> HTML](https://en.wikipedia.org/wiki/HTML)
 <br>
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/120px-CSS3_logo_and_wordmark.svg.png" alt="C#" width="20" /> CSS(https://en.wikipedia.org/wiki/CSS))
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/120px-CSS3_logo_and_wordmark.svg.png" alt="C#" width="20" /> CSS](https://en.wikipedia.org/wiki/CSS)
 <br>
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/900px-JavaScript-logo.png" alt="JS" width="20" /> JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
