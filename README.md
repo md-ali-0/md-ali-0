@@ -23,7 +23,7 @@
 
 # 🛠 Language and tools:
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="rust logo"  />
@@ -40,4 +40,17 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="circleci logo"  />
   <img width="12" />
+</div>
+
+# 👤 About me:
+<div align="left">
+🚀 Aspiring Front-End Developer eager to create captivating user experiences with ReactJS and JavaScript.
+
+🌟 I love the creative process of turning ideas into elegant, functional designs.
+
+💡 Constantly exploring and learning to stay updated with the latest trends and best practices in front-end development.
+
+🌐 Seeking opportunities to contribute and grow in the world of web development.
+
+Let's connect and build something amazing together! 🚀
 </div>
