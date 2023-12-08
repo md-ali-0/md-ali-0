@@ -1,6 +1,10 @@
 <img src="https://raw.githubusercontent.com/md-ali-0/md-ali-0/main/assets/images/cover.png" />
 
-![md-ali-0's Streak](https://github-readme-streak-stats.herokuapp.com/?user=md-ali-0&theme=dark&hide_border=true)
+# 📊 Current Stats:
+
+<br />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=md-ali-0&theme=dark&&show_icons=true&hide_border=true" />
+<br />
 
 # [Mohammad Ali](https://github.com/md-ali-0)
 
