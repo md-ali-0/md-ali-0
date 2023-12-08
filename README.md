@@ -8,9 +8,14 @@
 
 # 🌐 Connect with me:
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=facebook&logo=facebook&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+    <a href='https://www.linkedin.com/in/md-ali77'><img src="https://raw.githubusercontent.com/md-ali-0/md-ali-0/main/assets/icons/linkedin.png" height="35" alt="linkedin logo"  /></a>
+    <a href='https://www.facebook.com/mohammad.7060'>
+      <img src="https://raw.githubusercontent.com/md-ali-0/md-ali-0/main/assets/icons/facebook.png" height="35" alt="facebook logo"  />
+    </a>
+<a href='https://twitter.com/Mohammad_7060'>
+  <img src="https://raw.githubusercontent.com/md-ali-0/md-ali-0/main/assets/icons/twitter.png" height="35" alt="twitter logo"  />F
+</a>
+
 </div>
 
 # [Mohammad Ali](https://github.com/md-ali-0)
