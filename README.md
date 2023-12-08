@@ -8,12 +8,12 @@
 
 # 🌐 Connect with me:
 <div align="center">
-    <a href='https://www.linkedin.com/in/md-ali77'><img src="https://raw.githubusercontent.com/md-ali-0/md-ali-0/main/assets/icons/linkedin.png" height="35" alt="linkedin logo"  /></a>
+    <a href='https://www.linkedin.com/in/md-ali77'><img src="https://raw.githubusercontent.com/md-ali-0/md-ali-0/main/assets/icons/linkedin.png" height="50" alt="linkedin logo"  /></a>
     <a href='https://www.facebook.com/mohammad.7060'>
-      <img src="https://raw.githubusercontent.com/md-ali-0/md-ali-0/main/assets/icons/facebook.png" height="35" alt="facebook logo"  />
+      <img src="https://raw.githubusercontent.com/md-ali-0/md-ali-0/main/assets/icons/facebook.png" height="50" alt="facebook logo"  />
     </a>
 <a href='https://twitter.com/Mohammad_7060'>
-  <img src="https://raw.githubusercontent.com/md-ali-0/md-ali-0/main/assets/icons/twitter.png" height="35" alt="twitter logo"  />F
+  <img src="https://raw.githubusercontent.com/md-ali-0/md-ali-0/main/assets/icons/twitter.png" height="50" alt="twitter logo"  />
 </a>
 
 </div>
