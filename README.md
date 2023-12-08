@@ -3,12 +3,17 @@
 # 📊 Current Stats:
 
 <br />
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=md-ali-0&background=0D1117&sideLabels=523DDD&theme=dark&show_icons=true&hide_border=true&sideNums=523DDD" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=md-ali-0&background=0D1117&sideLabels=2F81F7&theme=dark&stroke=0D1117&fire=229A58&currStreakNum=229A58&ring=229A58&currStreakLabel=229A58&show_icons=true&hide_border=true&sideNums=2F81F7" />
 <br />
 
+# 🌐 Connect with me:
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
 # [Mohammad Ali](https://github.com/md-ali-0)
 
-## 📡 Socials
 <img src="https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico" alt="Discord" width="20" /> **[`ali706`](https://discordapp.com/users/ali706)**
 <br>
 <img src="https://telegram.org/img/favicon.ico" alt="Telegram" width="20" /> **[`mohammad_7060`](https://t.me/mohammad_7060)**
