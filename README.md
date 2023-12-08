@@ -2,9 +2,9 @@
 
 # 📊 Current Stats:
 
-<br />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=md-ali-0&show_icons=true&bg_color=0D1117&hide_border=true&theme=transparent" />
+
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=md-ali-0&background=0D1117&sideLabels=2F81F7&theme=dark&stroke=0D1117&fire=229A58&currStreakNum=229A58&ring=229A58&currStreakLabel=229A58&show_icons=true&hide_border=true&sideNums=2F81F7" />
-<br />
 
 # 🌐 Connect with me:
 
