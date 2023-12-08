@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/md-ali-0/md-ali-0/main/assets/images/cover.png" />
+
 # [Mohammad Ali](https://github.com/md-ali-0)
 
 ## 📡 Socials
