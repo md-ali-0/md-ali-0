@@ -3,7 +3,7 @@
 # 📊 Current Stats:
 
 <br />
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=md-ali-0&theme=dark&&show_icons=true&hide_border=true" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=md-ali-0&background=0D1117&sideLabels=523DDD&theme=dark&show_icons=true&hide_border=true&sideNums=523DDD" />
 <br />
 
 # [Mohammad Ali](https://github.com/md-ali-0)
