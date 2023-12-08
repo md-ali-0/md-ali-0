@@ -43,14 +43,15 @@
 </div>
 
 # 👤 About me:
-<div align="left">
-🚀 Aspiring Front-End Developer eager to create captivating user experiences with ReactJS and JavaScript.
 
-🌟 I love the creative process of turning ideas into elegant, functional designs.
+- 👋 Front-end developer passionate about crafting user-centric web experiences.
+- 💻 Proficient in React.js, JavaScript, and Node.js.
+- 🌐 Skilled in building dynamic and interactive user interfaces.
+- 🚀 Excited about exploring new front-end technologies and frameworks.
+- 📚 Constantly learning and staying updated with industry trends.
 
-💡 Constantly exploring and learning to stay updated with the latest trends and best practices in front-end development.
+### What I'm Excited About
 
-🌐 Seeking opportunities to contribute and grow in the world of web development.
-
-Let's connect and build something amazing together! 🚀
-</div>
+- 🚀 Exploring new front-end technologies and frameworks.
+- 🌐 Contributing to open-source projects to foster community learning.
+- 📚 Continuous learning and staying updated with industry trends.
