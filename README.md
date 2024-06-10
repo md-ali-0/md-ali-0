@@ -39,7 +39,7 @@
     </td>
     <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="typescript logo"  />
-      <br>Nodejs
+      <br>TypeScript
     </td>
     <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs logo"  />
