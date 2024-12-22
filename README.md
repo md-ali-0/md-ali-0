@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/md-ali-0/md-ali-0/main/assets/images/cover.png" />
+<img src="./assets/images/cover.png" />
 
 # 📊 Current Stats:
 
