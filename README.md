@@ -1,4 +1,4 @@
-<img src="./assets/images/cover.png" />
+<img src="./assets/images/new-cover.png" />
 
 # 📊 Current Stats:
 
